@@ -7,10 +7,10 @@ Gavin Hardiman
 159568
 
 ## My github username is:
-BL-MSCH-C220-S22
+Gavin8021
 
 ## My replit username is:
-BL-MSCH-C220-S22
+Gavin Hardiman
 
 ## I have installed the software on my computer as a part of the exercise
 
